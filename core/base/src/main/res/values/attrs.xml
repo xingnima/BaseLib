@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ResourceName">
+    <declare-styleable name="CleanableEditText">
+        <attr name="mode" format="enum">
+            <enum name="clear" value="0" />
+            <enum name="password" value="1" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="RecyclerTabLayout">
+        <attr name="rtl_tabIndicatorColor" format="color" />
+        <attr name="rtl_tabIndicatorHeight" format="dimension" />
+        <attr name="rtl_tabIndicatorWidth" format="dimension" />
+        <attr name="rtl_tabIndicatorRadius" format="dimension" />
+        <attr name="rtl_tabOnScreenLimit" format="integer" />
+        <attr name="rtl_tabMinWidth" format="dimension" />
+        <attr name="rtl_tabMaxWidth" format="dimension" />
+        <attr name="rtl_scrollEnabled" format="boolean" />
+    </declare-styleable>
+</resources>

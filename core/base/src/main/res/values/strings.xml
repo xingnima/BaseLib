@@ -1,0 +1,50 @@
+<resources>
+    <string name="base_core_just_now">刚刚</string>
+    <string name="base_core_min">分钟前</string>
+    <string name="base_core_hour">小时前</string>
+    <string name="base_core_day">天前</string>
+    <string name="base_core_month">月前</string>
+    <string name="base_core_year">年前</string>
+    <string name="base_core_today">今天</string>
+    <string name="base_core_yesterday">昨天</string>
+    <string name="base_core_the_day_before_yesterday">前天</string>
+
+    <string name="base_core_error_gif">长宽不小于 %1$dpx，且大小不超过 %2$sM。</string>
+
+    <string name="base_core_simple_web">网页</string>
+    <string name="base_core_js_bridge_web">网页</string>
+
+    <string name="base_core_common_no_data">暂无数据</string>
+    <string name="base_core_common_net_error">网络走丢了，刷新试试</string>
+    <string name="base_core_common_refresh">刷新</string>
+    <string name="base_core_common_service_error">服务器连接失败</string>
+
+    <string name="base_core_camera_permission_request_hint">扫一扫正在申请相机权限</string>
+    <string name="base_core_camera_permission_request_agree">同意</string>
+    <string name="base_core_camera_permission_request_cancel">取消</string>
+
+    <string name="base_core_js_bridge_web_close">关闭</string>
+
+    <string name="base_core_sex_man">男</string>
+    <string name="base_core_sex_woman">女</string>
+
+    <string name="base_core_common_error_title">提示</string>
+    <string name="base_core_common_error_content">加载出错啦！</string>
+    <string name="base_core_common_error_back">返回</string>
+    <string name="base_core_common_error_retry">重试</string>
+
+    <string name="base_core_file_download_title">文件下载</string>
+    <string name="base_core_file_download_ensure">确定</string>
+    <string name="base_core_file_download_cancel">取消</string>
+    <string name="base_core_xylink_not_installed">您还未安装相关客户端！</string>
+
+    <string name="base_core_user_agreement">用户协议</string>
+    <string name="base_core_user_agreement_url">https://www.qingzhuyun.com/agreement/</string>
+    <string name="base_core_privacy_policy">隐私政策</string>
+    <string name="base_core_privacy_policy_url">https://www.qingzhuyun.com/privacy-policy/</string>
+    <string name="base_core_user_agreement_content">《用户协议》</string>
+    <string name="base_core_privacy_policy_content">《隐私政策》</string>
+
+    <string name="base_core_search_hint">搜索</string>
+
+</resources>

@@ -1,0 +1,4 @@
+include ':app'
+include ':core:glide'
+include ':core:base'
+rootProject.name = "LxcBaseLib"
