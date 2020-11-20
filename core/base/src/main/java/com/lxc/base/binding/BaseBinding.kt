@@ -65,6 +65,7 @@ fun <T> setServerDataRecyclerView(
                 } else {
                     adapter.loadMoreComplete()
                 }
+                adapter.notifyItemChanged(adapter.data.size - serverData.data.size - 1)
             }
         }
         BaseRecyclerViewResult.DEAL_TYPE_REFRESH -> {
