@@ -13,10 +13,6 @@ android {
         versionName rootProject.ext.android.versionName
 
         multiDexEnabled true
-
-        ndk {
-            abiFilters "armeabi-v7a"
-        }
     }
 
     buildTypes {
